@@ -30,6 +30,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -59,7 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572693874248</updated>
       <workItem from="1572693875673" duration="113000" />
-      <workItem from="1572756729849" duration="3601000" />
+      <workItem from="1572756729849" duration="3846000" />
     </task>
     <servers />
   </component>
