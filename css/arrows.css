@@ -1,0 +1,13 @@
+/* Добавить стрелочку перед ссылками */
+a::before {
+    content: "\2192";
+}
+
+li{
+    list-style: none;
+    font-size: 40px;
+}
+
+a{
+    text-decoration: none;
+}

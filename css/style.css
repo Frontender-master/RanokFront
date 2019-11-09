@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+
+    float: left; /*Задаем обтекание*/
+    font-size: 40px;
+    background: dodgerblue;
+    width: 300px; /*Фиксируем ширину блока*/
+    margin-right: 10px;
+    text-align: center; /*Центрируем текст по горизонтали*/
+}
+
+
